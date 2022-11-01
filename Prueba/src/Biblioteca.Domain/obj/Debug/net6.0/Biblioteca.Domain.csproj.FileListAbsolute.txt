@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\bin\Debug\net6.0\Biblioteca.Domain.deps.json
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\bin\Debug\net6.0\Biblioteca.Domain.dll
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\bin\Debug\net6.0\Biblioteca.Domain.pdb
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.dll
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\refint\Biblioteca.Domain.dll
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.pdb
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Domain\obj\Debug\net6.0\ref\Biblioteca.Domain.dll
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\bin\Debug\net6.0\Biblioteca.Domain.deps.json
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\bin\Debug\net6.0\Biblioteca.Domain.dll
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\bin\Debug\net6.0\Biblioteca.Domain.pdb
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.csproj.AssemblyReference.cache
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.dll
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\refint\Biblioteca.Domain.dll
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\Biblioteca.Domain.pdb
+C:\Users\cpucolog\OneDrive - Banco Pichincha C.A\Escritorio\Net\Prueba\src\Biblioteca.Domain\obj\Debug\net6.0\ref\Biblioteca.Domain.dll
